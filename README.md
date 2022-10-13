@@ -6,4 +6,4 @@
 
 ### O Repositório
 
-Além dos arquivos com o processo para a análise dos dados, compõe o repositório os dados que foram trabalhados durante a estruturação dos códigos.
+Além dos arquivos com o processo para a análise dos dados, compõe também, as informações que foram trabalhadas durante a estruturação dos códigos.
